@@ -1,2 +1,2 @@
-Song Yilin's User Page\n
+Song Yilin's User Page
 My favourite coding language is python
