@@ -16,8 +16,9 @@ Here is the link to READ.MD file: [Link]:(README.MD)
 
 # Hello, my name is Yilin Song
 <sub>A picture of Alex</sub>
+
 <picture>
-    <img alt="A picture of Alex" src="https://i.ibb.co/k4vsQjd/877cd73e4e58ebf274191ca74113fe9.jpg">
+    <img alt="A picture of Alex" width="400" height="550" src="https://i.ibb.co/k4vsQjd/877cd73e4e58ebf274191ca74113fe9.jpg">
 </picture>
 
 ## Background story of my coding passion
